@@ -1,0 +1,2 @@
+# Hotel-Management-System
+a desktop based application for hotel management using Java. It manages and maintains the records of customers, rooms, employees and drivers in the hotel. It maintains the day-to-day state of admission/vacation of Residents, List of employees, room details etc. This software application helps admin to handle customer information, room allocation details, Payment details etc. Developed using Swing in NetBeans IDE and MySQL for Database Management.
